@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m Keyur
 
+I’m a **Master’s student in Information Security at Carnegie Mellon University**, with industry experience in **offensive security, vulnerability research, and security engineering**. My interests span red teaming, hardware security, distributed systems, and applied cryptography.
+
 ### 📁 About my repositories
 Most of my project repositories are **private** due to academic, research, or organizational constraints.  
 If you’re a **recruiter or hiring manager** and would like to review my work, please reach out I’m happy to share access where possible.
-
-I’m a **Master’s student in Information Security at Carnegie Mellon University**, with industry experience in **offensive security, vulnerability research, and security engineering**. My interests span red teaming, hardware security, distributed systems, and applied cryptography.
 
 ### 🔐 What I’m currently working on
 - **eCTF @ CMU:** Hardware hacking, embedded security, and attack/defense techniques for constrained devices  
