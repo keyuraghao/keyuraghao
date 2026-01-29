@@ -27,3 +27,6 @@ If you’re a **recruiter or hiring manager** and would like to review my work, 
 - **Email:** kaghao@andrew.cmu.edu  
 - **LinkedIn:** https://www.linkedin.com/in/keyur-aghao
 - **Calandly:** https://calendly.com/kaghao-andrew
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kalki3301.png" alt="Your Image Badge" />
+
