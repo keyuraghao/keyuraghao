@@ -14,13 +14,16 @@ If you’re a **recruiter or hiring manager** and would like to review my work, 
 
 ### 🛠 Tools & Technologies
 **Languages:** Python, Go, C/C++, Bash, PowerShell, Assembly x86, VHDL 
+
 **Security Tools:** Burp Suite, Metasploit, Cobalt Strike, Nmap, Nessus, Wireshark, Ghidra, IDA  
+
 **Platforms & Frameworks:** ADB, Akamai-CPC & API security, Autopsy, Burp Suite, Cobalt Strike, Docker, Ghidra, IDA, Kibana, Metasploit, Snort, SOF-ELK, Splunk, Nmap, Nessus, Oxygen Forensics, Power BI, Qiskit, Q-Radar, Wireshark,  Xilinx 
+
 **Focus Areas:** Cyber Forensics, Network Security, Cloud Security, Cryptography, Incident Response, Access Control, Mobile & IoT Security, Hardware Security, Distributed Systems, Red Teaming 
+
 **Certification:**  Cryptography and Network Security, CEHv11, CND, OSCP (In-Progress)
 
 ### 📫 How to reach me
 - **Email:** kaghao@andrew.cmu.edu  
 - **LinkedIn:** https://www.linkedin.com/in/keyur-aghao
-
-![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/Kalki3301.png" alt="Your Image Badge" />)
+- **Calandly:** https://calendly.com/kaghao-andrew
