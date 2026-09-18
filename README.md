@@ -1,32 +1,40 @@
-## 👋 Hi, I’m Keyur
+## 👋 Hi, I'm Keyur
 
-I’m a **Master’s student in Information Security at Carnegie Mellon University**, with industry experience in **offensive security, vulnerability research, and security engineering**. My interests span red teaming, hardware security, distributed systems, and applied cryptography.
+I'm a **Master's student in Information Security at Carnegie Mellon University** (graduating Dec 2026), with industry experience in **offensive security, vulnerability research, and security engineering**. My interests span red teaming, hardware and firmware security, cloud security, and application/API security.
 
-### 📁 About my repositories
-Most of my project repositories are **private** due to academic, research, or organizational constraints.  
-If you’re a **recruiter or hiring manager** and would like to review my work, please reach out I’m happy to share access where possible.
+### 🏆 Highlights
+- 🥇 **1st place, internationally**, at MITRE's Embedded Capture the Flag (eCTF) 2026, against 100+ university teams - hardware fault injection, side-channel analysis, and firmware exploitation.
+- 🔓 Published the **first public proof-of-concept for [CVE-2025-20260](https://github.com/keyuraghao/CVE-2025-20260)** (CVSS 9.8, Critical) - a buffer overflow in ClamAV's PDF scanner.
+- 🛰️ Firmware and wireless-protocol security research on consumer drones (multiple zero-day findings, responsible disclosure in progress).
 
-### 🔐 What I’m currently working on
-- **eCTF @ CMU:** Hardware hacking, embedded security, and attack/defense techniques for constrained devices  
-- **Distributed Systems:** Designing and building fault-tolerant, scalable systems  
-- **Quantum Computing:** Exploring quantum algorithms and security implications  
-- **Network Security:** Secure architectures, traffic analysis, and defensive mechanisms  
+### 📌 Featured projects
+| Project | What it is |
+|---|---|
+| [CVE-2025-20260](https://github.com/keyuraghao/CVE-2025-20260) | First public PoC for a CVSS 9.8 ClamAV PDF-scanning buffer overflow, with core-dump analysis. |
+| [Cloud_Piercer_V2](https://github.com/keyuraghao/Cloud_Piercer_V2) | Multi-cloud CSPM tool that discovers publicly reachable storage across AWS S3, Azure Blob, and GCP, with AI-based risk prioritization. |
+| [SubHunter](https://github.com/keyuraghao/SubHunter) | Installable CLI for enterprise-grade subdomain enumeration and vulnerability scanning, unifying multiple OSINT/offensive sources. |
+| [AMSI-Bypass](https://github.com/keyuraghao/AMSI-Bypass) | Red-team reference for PowerShell-only and global AMSI evasion techniques, for defensive testing. |
+| [vscode-code-hierarchy](https://github.com/keyuraghao/vscode-code-hierarchy) | A VS Code extension: a live function/class hierarchy docked beside your code, with fuzzy search. |
+
+### 🔐 Currently working on
+- **eCTF @ CMU:** embedded/hardware security and attack-defense for constrained devices
+- **Cloud & application security:** posture management, vulnerability management, secure SDLC
+- **Distributed systems & applied cryptography**
 
 ### 🛠 Tools & Technologies
-**Languages:** Python, Go, C/C++, Bash, PowerShell, Assembly x86, VHDL 
+**Languages:** Python, Go, C/C++, Bash, PowerShell, x86 Assembly, VHDL
 
-**Security Tools:** Burp Suite, Metasploit, Cobalt Strike, Nmap, Nessus, Wireshark, Ghidra, IDA  
+**Security:** Burp Suite, Metasploit, Nmap, Nessus, Wireshark, Ghidra, IDA, Splunk, QRadar, Maltego, Autopsy
 
-**Platforms & Frameworks:** ADB, Akamai-CPC & API security, Autopsy, Burp Suite, Cobalt Strike, Docker, Ghidra, IDA, Kibana, Metasploit, Snort, SOF-ELK, Splunk, Nmap, Nessus, Oxygen Forensics, Power BI, Qiskit, Q-Radar, Wireshark,  Xilinx 
+**Platforms:** AWS, Azure, GCP, Docker, ADB, Qiskit, Xilinx
 
-**Focus Areas:** Cyber Forensics, Network Security, Cloud Security, Cryptography, Incident Response, Access Control, Mobile & IoT Security, Hardware Security, Distributed Systems, Red Teaming 
+**Focus:** Offensive Security, Hardware/Firmware Security, Cloud Security, Application & API Security, Incident Response, Digital Forensics
 
-**Certification:**  Cryptography and Network Security, CEHv11, CND, OSCP (In-Progress)
+**Certifications:** CEHv11, CND, Cryptography and Network Security, OSCP (In-Progress)
 
-### 📫 How to reach me
-- **Email:** kaghao@andrew.cmu.edu  
+### 📫 Reach me
+- **Email:** kaghao@andrew.cmu.edu
 - **LinkedIn:** https://www.linkedin.com/in/keyur-aghao
-- **Calandly:** https://calendly.com/kaghao-andrew
+- **Calendly:** https://calendly.com/kaghao-andrew
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Kalki3301.png" alt="Your Image Badge" />
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kalki3301.png" alt="TryHackMe badge" />
