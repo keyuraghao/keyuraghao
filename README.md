@@ -1,26 +1,10 @@
 ## 👋 Hi, I'm Keyur
 
-<p>
-  <a href="https://keyuraghao.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-keyuraghao.github.io-C9A227?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/keyur-aghao"><img src="https://img.shields.io/badge/LinkedIn-keyur--aghao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kaghao@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-kaghao%40andrew.cmu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://calendly.com/kaghao-andrew"><img src="https://img.shields.io/badge/Calendly-book_a_call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" /></a>
-  <img src="https://komarev.com/ghpvc/?username=keyuraghao&color=C9A227&style=for-the-badge&label=Profile+views" alt="Profile views" />
-</p>
-
 I'm a **Master's student in Information Security at Carnegie Mellon University** (graduating Dec 2026), with industry experience in **offensive security, vulnerability research, and security engineering**. My interests span **AI/LLM security**, **hardware and firmware security** (side-channel analysis and fault injection), red teaming, RF/wireless sensing, cloud security, and application/API security.
 
 🌐 **Portfolio:** https://keyuraghao.github.io/Portfolio/
 
 ### 🏆 Highlights
-
-<p>
-  <img src="https://img.shields.io/badge/MITRE_eCTF_2026-1st_place_international-C9A227?style=flat-square" alt="MITRE eCTF 2026, 1st place" />
-  <img src="https://img.shields.io/badge/CVE--2025--20260-first_public_PoC_(CVSS_9.8)-B22222?style=flat-square" alt="CVE-2025-20260 first public PoC" />
-  <img src="https://img.shields.io/badge/Microsoft_MSRC-2x_acknowledged-0078D4?style=flat-square" alt="Microsoft MSRC, 2 acknowledged findings" />
-  <img src="https://img.shields.io/badge/Carnegie_Mellon-MS_Information_Security_2026-A6192E?style=flat-square" alt="Carnegie Mellon MS Information Security" />
-  <img src="https://img.shields.io/badge/Certified-CEHv11_|_CND-555555?style=flat-square" alt="CEHv11 and CND certified" />
-</p>
 - 🥇 **1st place, internationally**, at MITRE's Embedded Capture the Flag (eCTF) 2026, against 100+ university teams: hardware fault injection, side-channel analysis, and firmware exploitation.
 - 🔓 Published the **first public proof-of-concept for [CVE-2025-20260](https://github.com/keyuraghao/CVE-2025-20260)** (CVSS 9.8, Critical), a buffer overflow in ClamAV's PDF scanner.
 - 🛡️ **2× Microsoft MSRC acknowledged** for coordinated vulnerability disclosures.
@@ -47,28 +31,6 @@ I'm a **Master's student in Information Security at Carnegie Mellon University**
 - **Cloud & application security:** posture management, vulnerability management, secure SDLC
 
 ### 🛠 Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat-square" alt="x86 Assembly" />
-  <br />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-2A6478?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Ghidra-B22222?style=flat-square" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/Frida-EF6456?style=flat-square" alt="Frida" />
-  <img src="https://img.shields.io/badge/ChipWhisperer-C9A227?style=flat-square" alt="ChipWhisperer" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
-</p>
 **Languages:** Python, Go, C/C++, Bash, PowerShell, TypeScript, x86 Assembly, VHDL
 
 **AI security:** AI red teaming, prompt injection, jailbreak testing, adversarial ML, OWASP LLM Top 10, PyRIT, promptfoo, garak, Rebuff, LLM Guard, NeMo Guardrails, Lakera Guard
@@ -82,13 +44,6 @@ I'm a **Master's student in Information Security at Carnegie Mellon University**
 **Focus:** Offensive Security, AI/LLM Security, Hardware/Firmware Security, Cloud Security, Application & API Security, Incident Response, Digital Forensics
 
 **Certifications:** CEHv11, CND, Cryptography and Network Security, OSCP (In-Progress)
-
-### 📊 GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=keyuraghao&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9A227&icon_color=C9A227&text_color=E6E1D7" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyuraghao&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9A227&text_color=E6E1D7&langs_count=8" height="165" alt="Top languages" />
-</p>
 
 ### 📫 Reach me
 - **Email:** kaghao@andrew.cmu.edu
